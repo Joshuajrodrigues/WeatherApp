@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+This WeatherApp is a PWA(Progressive Web App)
+you can find it deployed here :https://laughing-carson-319ccf.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
